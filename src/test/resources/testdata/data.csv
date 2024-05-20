@@ -1,0 +1,3 @@
+firstname,lastname,password,emailSuffix,errorMessage
+amildobsession,abigobsession,Da3@ppppp,@example.com,
+amildobsession,abigobsession,Da3@ppppp,,Please enter a valid email address (Ex: johndoe@domain.com).
